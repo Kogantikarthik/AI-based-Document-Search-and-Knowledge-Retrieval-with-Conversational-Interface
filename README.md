@@ -5,6 +5,9 @@
 ## 🎯 **Project Overview**
 Production-ready **Streamlit + LangChain + Gemini AI** powered RAG app for **semantic document Q&A**.
 
+📱 **Live Demo**
+**[Try the App](https://document-search-and-knowledge-retrieval.streamlit.app/)**
+
 **Core Technologies**:
 - ✅ **Document Loaders**: PDF, TXT, PPTX multi-format support
 - ✅ **Lazy Loading**: Memory-optimized streaming  
@@ -26,8 +29,7 @@ Production-ready **Streamlit + LangChain + Gemini AI** powered RAG app for **sem
 | **Chat Memory** | Conversational context preservation |
 | **Fast Deployment** | Streamlit Cloud ready |
 
-## 📱 **Live Demo**
-**[Try the App](LIVE_APP_URL)**
+## 
 
 ### **Quick Test Steps**:
 1. **Upload any document** (PDF/TXT/PPTX)
