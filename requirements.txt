@@ -1,32 +1,11 @@
-# LangChain Core
-langchain
-langchain-core
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini Integration
-langchain-google-genai
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
-sentence-transformers
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-
-# PyTorch (for some HF models)
-torch
-torchvision
-torchaudio
+streamlit==1.38.0
+pypdf==5.5.0
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-google-genai==2.0.0
+google-generativeai==0.8.3
+python-dotenv==1.0.1
+unstructured==0.15.4
+chromadb==0.5.11
+sentence-transformers==3.1.1
+numpy==1.26.4
