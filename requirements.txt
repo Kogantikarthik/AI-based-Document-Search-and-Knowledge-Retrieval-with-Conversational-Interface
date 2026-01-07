@@ -1,8 +1,10 @@
 streamlit
 pypdf
+scikit-learn
 langchain-community
 langchain-google-genai
 google-generativeai
 python-dotenv
 chromadb
 numpy
+sentence-transformers
