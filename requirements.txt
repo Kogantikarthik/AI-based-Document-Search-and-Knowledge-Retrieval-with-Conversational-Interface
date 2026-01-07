@@ -1,5 +1,6 @@
 streamlit
 pypdf
+python-pptx
 scikit-learn
 langchain-community
 langchain-google-genai
