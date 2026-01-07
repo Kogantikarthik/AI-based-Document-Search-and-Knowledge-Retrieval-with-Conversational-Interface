@@ -2,11 +2,12 @@
 
 **Infosys Springboard Virtual Internship Project**  
 **RAG (Retrieval-Augmented Generation) Application**
-## 🎯 **Project Overview**
-Production-ready **Streamlit + LangChain + Gemini AI** powered RAG app for **semantic document Q&A**.
 
 📱 **Live Demo**
 **[Try the App](https://document-search-and-knowledge-retrieval.streamlit.app/)**
+
+## 🎯 **Project Overview**
+Production-ready **Streamlit + LangChain + Gemini AI** powered RAG app for **semantic document Q&A**.
 
 **Core Technologies**:
 - ✅ **Document Loaders**: PDF, TXT, PPTX multi-format support
